@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  font-size: 3em;
+}
+
+.one {
+  background-color: red;
+  color: lime;
+}
+
+.two {
+  color: blue;
+}
+
+.pricing {
+  display: block;
+  background-color: #fff;
+}
+
+.pricing-item.active {
+  border: 1px solid #f00;
+}
